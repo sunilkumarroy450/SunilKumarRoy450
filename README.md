@@ -3,9 +3,9 @@
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MongoDB who enjoys making web application and learning new technology.</h3>
 <p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya99raj&label=Profile%20views&color=0e75b6&style=flat" alt="aditya99raj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilSunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya99raj" alt="aditya99raj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya99raj" alt="SunilSunilSunilKumarRoy450" /></a> </p>
 
   🙋‍♂️  *About Me*
  
@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/aditya-raj-32b491225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-raj-32b491225" height="30" width="40" /></a>
 <a href="https://instagram.com/adityaraj.insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaraj.insta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityaraj9983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityaraj9983" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya99raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya99raj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/SunilKumarRoy450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SunilKumarRoy450" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
