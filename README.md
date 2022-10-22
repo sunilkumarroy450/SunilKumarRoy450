@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKumarRoy450&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+<!-- **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
@@ -74,5 +74,5 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 2022.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 2022. -->
 
