@@ -42,6 +42,156 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilKumarRoy450&" alt="SunilKumarRoy450" /></p> -->
 
 
+-----------------------------------------------------------
+## 🚀 My_Skills
+
+> _Tools, languages, and other things that I like to work with_
+
+**Programming Languages**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
+      </a>
+      <br>C
+    </td>
+  </tr>
+</table>
+
+**Frameworks & Libraries**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
+      </a>
+      <br>Electron
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+**Markup & Stylesheet**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
+      </a>
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
+      </a>
+      <br>Markdown
+    </td>
+  </tr>
+</table>
+
+**Graphic Tools**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/illustrator.svg" width="40"/>
+      </a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+**Other Tools**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/gulp.svg" width="25"/>
+      </a>
+      <br>Gulp
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40"/>
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/>
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
+----------------------------------------------------------
+
+
 
 ### 🐱My Github stats:
 ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
