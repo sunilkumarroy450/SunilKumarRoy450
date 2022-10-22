@@ -57,7 +57,7 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
       </a>
@@ -74,7 +74,7 @@
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
       </a>
       <br>C
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -94,7 +94,7 @@
       </a>
       <br>NodeJS
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
       </a>
@@ -105,7 +105,7 @@
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
       </a>
       <br>Bootstrap
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -125,7 +125,7 @@
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
       </a>
@@ -136,11 +136,11 @@
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
       </a>
       <br>Markdown
-    </td>
+    </td> -->
   </tr>
 </table>
 
-**Graphic Tools**
+<!-- **Graphic Tools**
 
 <table>
   <tr>
@@ -163,13 +163,13 @@
       <br>Figma
     </td>
   </tr>
-</table>
+</table> -->
 
 **Other Tools**
 
 <table>
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/gulp.svg" width="25"/>
       </a>
@@ -180,7 +180,7 @@
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40"/>
       </a>
       <br>Webpack
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/>
