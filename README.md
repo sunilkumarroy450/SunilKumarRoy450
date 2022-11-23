@@ -3,7 +3,7 @@
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MongoDB who enjoys making web application and learning new technology.</h3>
 <p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilSunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
 
 
   🙋‍♂️  *About Me*
@@ -53,7 +53,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/js.svg" width="40"/>
       </a>
       <br>JavaScript
     </td>
@@ -84,13 +84,13 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/react.svg" width="40"/>
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/nodejs.svg" width="40"/>
       </a>
       <br>NodeJS
     </td>
@@ -115,13 +115,13 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/html.svg" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/css.svg" width="40"/>
       </a>
       <br>CSS
     </td>
