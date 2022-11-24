@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/css.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
       </a>
       <br>CSS
     </td>
