@@ -53,7 +53,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/js.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
       </a>
       <br>JavaScript
     </td>
@@ -84,13 +84,13 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/react.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/nodejs.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
       </a>
       <br>NodeJS
     </td>
@@ -115,7 +115,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/sunilkumarroy450/sunilkumarroy450/master/icons/html.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
       </a>
       <br>HTML
     </td>
