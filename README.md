@@ -197,6 +197,11 @@
 ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKumarRoy450&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SunilKumarRoy450/github-readme-stats)
 
+
+ | Github Stats | Current Strek  |
+| --- | --- |
+| ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&theme=tokyonight)|[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=tokyonight)](https://git.io/streak-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=tokyonight)](https://git.io/streak-stats) |
+
  ### - What i do
 
 <br />
