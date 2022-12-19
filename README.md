@@ -24,6 +24,8 @@
 
 - 📄 Know about my Work <a  href="https://sunilkumarroy450.github.io/" >Portfolio</a>
 
+- 📄 Know about my Work <a  href="https://www.linkedin.com/in/sunil-roy-310447178/" >Linkedin</a>
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-raj-32b491225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-raj-32b491225" height="30" width="40" /></a>
