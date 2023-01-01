@@ -55,28 +55,58 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40px" />
       </a>
       <br>JavaScript
     </td>
-<!--     <td align="center" width="96">
+      <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40px"/>
       </a>
-      <br>Python
+      <br>HTML
     </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
+         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="40px" />
       </a>
-      <br>PHP
+      <br>Css
     </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="40px"/>
       </a>
-      <br>C
-    </td> -->
+      <br>NodeJs
+    </td>
+      <td align="center" width="96">
+      <a>
+       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="40px"/>
+      </a>
+      <br>Npm
+    </td>
+      <td align="center" width="96">
+      <a>
+         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="40px"/>
+      </a>
+      <br>MongoDB
+    </td>
+      <td align="center" width="96">
+      <a>
+         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="40px"/>
+      </a>
+      <br>Postman
+    </td>
+       <td align="center" width="96">
+      <a>
+         <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" width="40px"/>
+      </a>
+      <br>Git
+    </td>
+       <td align="center" width="96">
+      <a>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" width="40px"/>
+      </a>
+      <br>Github
+    </td>
   </tr>
 </table>
 
@@ -86,111 +116,32 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" width="40px"/>
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+         <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" width="40px"/>
       </a>
-      <br>NodeJS
-    </td>
-<!--     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
-      </a>
-      <br>Electron
+      <br>ChakraUI
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
+         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" width="40px"/>
       </a>
-      <br>Bootstrap
-    </td> -->
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" width="40px"/>
+      </a>
+      <br>ExpressJs
+    </td>
   </tr>
 </table>
 
-**Markup & Stylesheet**
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
-      </a>
-      <br>CSS
-    </td>
-<!--     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
-      </a>
-      <br>SASS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
-      </a>
-      <br>Markdown
-    </td> -->
-  </tr>
-</table>
-
-<!-- **Graphic Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/illustrator.svg" width="40"/>
-      </a>
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table> -->
-
-**Other Tools**
-
-<table>
-  <tr>
-<!--     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/gulp.svg" width="25"/>
-      </a>
-      <br>Gulp
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40"/>
-      </a>
-      <br>Webpack
-    </td> -->
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/>
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
 ----------------------------------------------------------
 
 
