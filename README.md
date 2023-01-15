@@ -132,7 +132,7 @@
 
  | Github Stats | Current Strek  |
 | --- | --- |
-| ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&theme=tokyonight)|[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=tokyonight)](https://git.io/streak-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&theme=tokyonight)|[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=tokyonight)](https://git.io/streak-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=tokyonight)](https://git.io/streak-stats) |
 
  ### - What i do
 
