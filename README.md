@@ -37,49 +37,49 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="97">
       <a>
          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40px" />
       </a>
       <br>JavaScript
     </td>
-      <td align="center" width="96">
+      <td align="center" width="97">
       <a>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40px"/>
       </a>
       <br>HTML
     </td>
-      <td align="center" width="96">
+      <td align="center" width="97">
       <a>
          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="40px" />
       </a>
       <br>Css
     </td>
-      <td align="center" width="96">
+      <td align="center" width="97">
       <a>
        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="40px"/>
       </a>
       <br>Npm
     </td>
-      <td align="center" width="96">
+      <td align="center" width="97">
       <a>
          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="40px"/>
       </a>
       <br>MongoDB
     </td>
-      <td align="center" width="96">
+      <td align="center" width="97">
       <a>
          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="40px"/>
       </a>
       <br>Postman
     </td>
-       <td align="center" width="96">
+       <td align="center" width="97">
       <a>
          <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" width="40px"/>
       </a>
       <br>Git
     </td>
-       <td align="center" width="96">
+       <td align="center" width="97">
       <a>
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" width="40px"/>
       </a>
@@ -92,31 +92,31 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="98">
       <a>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" width="40px"/>
       </a>
       <br>React
     </td>
-         <td align="center" width="96">
+         <td align="center" width="98">
       <a>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="40px"/>
       </a>
       <br>NodeJs
     </td>
-    <td align="center" width="96">
+    <td align="center" width="98">
       <a>
          <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" width="40px"/>
       </a>
       <br>ChakraUI
     </td>
-    <td align="center" width="96">
+    <td align="center" width="98">
       <a>
          <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" width="40px"/>
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96">
+    <td align="center" width="98">
       <a>
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" width="40px"/>
       </a>
