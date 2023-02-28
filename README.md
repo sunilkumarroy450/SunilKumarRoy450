@@ -8,10 +8,6 @@
 
   🙋‍♂️  *About Me*
  
-- 📫 I am currently student at *Masai School*
- 
-- 🌱 I am currently learning *Full Stack Web Development at Masai School*
-
 - 👯 I am looking to work as a *Full Stack Web Developer*
 
 - 💬 Ask me about *HTML CSS JAVASCRIPT REACT*
