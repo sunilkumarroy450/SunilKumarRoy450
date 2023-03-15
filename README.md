@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MongoDB who enjoys making web application and learning new technology.</h3>
-<p align="center" ><img width="80%" src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/200.webp?cid=ecf05e47nmpm327qralrq673jo6vmlnh51twxdzx3rv6d172&rid=200.webp&ct=g" /></p>
+<p align="center" ><img border=".5rem" width="80%" src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/200.webp?cid=ecf05e47nmpm327qralrq673jo6vmlnh51twxdzx3rv6d172&rid=200.webp&ct=g" /></p>
 
 
 
