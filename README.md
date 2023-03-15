@@ -1,28 +1,16 @@
-<!-- <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MongoDB who enjoys making web application and learning new technology.</h3>
-<p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p> -->
-
-
-<div align="center">
-<img width="" height = "" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cover" />
-</div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
-
-
-<tag  size='25px'> Hi! My name is Sunil Kumar. Thank You for taking the time to view my GitHub Profile :smile:
-</tag>
+<p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p>
 
 
 
 
-  <div>
+
+
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
-  </div>
+
 
 
 
