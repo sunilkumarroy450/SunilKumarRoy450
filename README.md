@@ -140,7 +140,7 @@
 
 | Top Languages |
 | :--- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=SunilKumarRoy450&show_icons=true&theme=tokyonight" alt="Sunil's Language stats" /> 
+| <img height=200 width='80%' src="https://github-readme-stats.vercel.app/api/top-langs?username=SunilKumarRoy450&show_icons=true&theme=tokyonight" alt="Sunil's Language stats" /> 
 
 
  ### - What i do
