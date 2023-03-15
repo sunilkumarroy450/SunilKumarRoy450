@@ -93,7 +93,7 @@
 
 **Frameworks & Libraries**
 
-<table>
+<table theme=radical>
   <tr>
     <td align="center" width="98">
       <a>
