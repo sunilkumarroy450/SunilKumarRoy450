@@ -1,7 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MongoDB who enjoys making web application and learning new technology.</h3>
-<p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p>
+<p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p> -->
+
+
+<div align="center">
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+</div>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+
+<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile:
+</div>
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
 
