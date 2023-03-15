@@ -12,8 +12,7 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=SunilKumarRoy450)
-[![Github](https://img.shields.io/github/followers/SunilKumarRoy450?label=Follow&style=social)](https://github.com/SunilKumarRoy450)
+
 
 <div size='20px'> Hi! My name is Sunil Kumar. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
@@ -21,9 +20,11 @@
 
 
 
+  <div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
+  </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
 
 
   🙋‍♂️  *About Me*
