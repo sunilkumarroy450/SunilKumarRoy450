@@ -135,13 +135,10 @@
 | <img height=450 width=465 src="https://github-readme-stats.vercel.app/api/top-langs?username=SunilKumarRoy450&show_icons=true&theme=radical" alt="Sunil's Language stats" /> |  <img  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 
 <!--theam :--> <!-- previous theam : tokyonight --> 
-<!--  ### - What i do
+
 
 <br />
 
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
    
    
 <br /> -->
