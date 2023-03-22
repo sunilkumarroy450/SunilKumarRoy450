@@ -128,7 +128,7 @@
 | ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&theme=radical)|[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=radical)](https://git.io/streak-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=radical)](https://git.io/streak-stats) |
 
 
-| Top Languages |   ### - What i do |
+| Top Languages |   What i do |
 | --- | --- |
 | <img height=450 width=465 src="https://github-readme-stats.vercel.app/api/top-langs?username=SunilKumarRoy450&show_icons=true&theme=radical" alt="Sunil's Language stats" /> |  <img  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 
