@@ -16,7 +16,7 @@
 - ⚡ Fun fact *Love to explore new things and play cricket*
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/10n9mXfnPnFHD0PiKCy_8_axjoiGn9-Oh/view?usp=sharing" >Resume</a>
-- - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vZ7bwklrA35UsF7Z5gjqqtY0TvbUHSMK/view?usp=share_link" >Certificate</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vZ7bwklrA35UsF7Z5gjqqtY0TvbUHSMK/view?usp=share_link" >Certificate</a>
 
 - 📄 Know about my Work <a  href="https://sunilkumarroy450.github.io/" >Portfolio</a>
 
