@@ -125,7 +125,9 @@
  | Github Stats | Current Strek  |
 | --- | --- |
 
- ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&theme=radical)[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=radical)](https://git.io/streak-stats) 
+| ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&theme=radical) | [![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=radical)](https://git.io/streak-stats)
+ |Cerficate|
+ | --- |
 ![Sunil_cerficate](https://user-images.githubusercontent.com/101394814/230847473-6110fad5-d85b-4339-820c-1da436a0dbf4.png)
 
 | Top Languages |   What i do |
