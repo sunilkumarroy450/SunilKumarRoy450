@@ -39,7 +39,7 @@
     </td>
       <td align="center" width="97">
       <a>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40px"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"width="40px"/>
       </a>
       <br>HTML
     </td>
