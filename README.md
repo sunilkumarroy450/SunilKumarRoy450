@@ -110,6 +110,12 @@
       </a>
       <br>Redux
     </td>
+        <td align="center" width="98">
+      <a>
+         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=reduxtoolkit&logoColor=white" alt="redux Toolkit" width="40px"/>
+      </a>
+      <br>Redux ToolKit
+    </td>
     <td align="center" width="98">
       <a>
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" width="40px"/>
