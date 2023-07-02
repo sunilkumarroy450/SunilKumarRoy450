@@ -118,7 +118,7 @@
     </td>
         <td align="center" width="98">
       <a>
-         <img src="https://img.shields.io/badge/Reduxtoolkit-593D88?style=for-the-badge&logo=reduxtoolkit&logoColor=white" alt="redux Toolkit" width="40px"/>
+         <img src="https://img.shields.io/badge/ReduxToolkit-593D88?style=for-the-badge&logo=reduxtoolkit&logoColor=white" alt="redux Toolkit" width="40px"/>
       </a>
       <br>ReduxToolKit
     </td>
@@ -132,6 +132,11 @@
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt="expressjs" width="40px"/>
       </a>
       <br>NextJs
+      <td align="center" width="98">
+      <a>
+        <img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white" alt="expressjs" width="40px"/>
+      </a>
+      <br>Strapi
   </tr>
 </table>
 
