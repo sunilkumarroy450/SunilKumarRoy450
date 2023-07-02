@@ -83,7 +83,7 @@
       <a>
         <img src="https://img.shields.io/badge/Vscode-593D88?style=for-the-badge&logo=vscode&logoColor=white" alt="github" width="40px"/>
       </a>
-      <br>Github
+      <br>VsCode
     </td>
   </tr>
 </table>
@@ -131,7 +131,7 @@
       <a>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt="expressjs" width="40px"/>
       </a>
-      <br>ExpressJs
+      <br>NextJs
   </tr>
 </table>
 
