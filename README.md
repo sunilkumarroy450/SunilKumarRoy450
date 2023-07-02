@@ -79,6 +79,12 @@
       </a>
       <br>Github
     </td>
+         <td align="center" width="97">
+      <a>
+        <img src="https://img.shields.io/badge/Vscode-593D88?style=for-the-badge&logo=vscode&logoColor=white" alt="github" width="40px"/>
+      </a>
+      <br>Github
+    </td>
   </tr>
 </table>
 
@@ -112,7 +118,7 @@
     </td>
         <td align="center" width="98">
       <a>
-         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=reduxtoolkit&logoColor=white" alt="redux Toolkit" width="40px"/>
+         <img src="https://img.shields.io/badge/Reduxtoolkit-593D88?style=for-the-badge&logo=reduxtoolkit&logoColor=white" alt="redux Toolkit" width="40px"/>
       </a>
       <br>ReduxToolKit
     </td>
@@ -121,7 +127,11 @@
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" width="40px"/>
       </a>
       <br>ExpressJs
-
+   <td align="center" width="98">
+      <a>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt="expressjs" width="40px"/>
+      </a>
+      <br>ExpressJs
   </tr>
 </table>
 
