@@ -140,6 +140,11 @@
         <img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white" alt="expressjs" width="40px"/>
       </a>
       <br>Strapi
+               <td align="center" width="98">
+      <a>
+        <img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=tailwind&logoColor=white" alt="expressjs" width="40px"/>
+      </a>
+      <br>Tailwind 
   </tr>
 </table>
 <!-- ---------------------------------------------------------- -->
