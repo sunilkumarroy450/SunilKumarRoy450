@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">I am MERN Stack Developer</h3>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=teal&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sunil+%F0%9F%91%8B;MERN+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
