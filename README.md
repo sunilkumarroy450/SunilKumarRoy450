@@ -154,7 +154,7 @@
 | --- | --- |
 |![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilKumarRoy450&show_icons=true&theme=radical)|[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=SunilKumarRoy450&theme=radical)](https://git.io/streak-stats)
 
-<span><a href="https://wakatime.com/@SunilKumarRoy450"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=SunilKumarRoy450&layout=compact&theme=react&langs_count=10" /></a></span>
+<span><a href="https://wakatime.com/@sunilkumarroy450"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=sunilkumarroy450&layout=compact&theme=react&langs_count=10" /></a></span>
 
 |Certificate & Achievement|
 | --- |
