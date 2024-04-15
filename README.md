@@ -2,26 +2,24 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=teal&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sunil+%F0%9F%91%8B;MERN+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<p align="center" font-family="sans-serif">A Full-stack web developer with a passion for writing clean and efficient code. I am proficient in integrating APIs into React applications using Axios and Fetch and utilizing various React tools and libraries such as Redux, React Router, and Chakra UI. As someone who is passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects.</p>
-<p border-radius=".5rem" align="center" ><img  width="80%" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" /></p>
+<p align="centre" font-family="sans-serif">A MERN Stack developer with a passion for writing clean and efficient code. I am proficient in integrating APIs into React and Next.js applications using Axios and Fetch and utilizing various tools, languages and libraries such as Redux, ReduxToolkit, React Router, Strapi, Node.js, Express.Js, MongoDB, Tailwind CSS and Chakra UI. As someone passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects.</p>
+<p border-radius=".5rem" align="center" ><img  width="80%" height="50%" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" /></p>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
 
   🙋‍♂️  *About Me*
  
-- 👯 I am looking to work as a *Full Stack Web Developer*
+- 👯 I am looking to work as a *MERN Stack Web Developer or React.js Developer*
 
-- 💬 Ask me about *HTML CSS JAVASCRIPT REACT*
+- 💬 Ask me about *HTML CSS JAVASCRIPT REACT Next.js Node*
 
 - 📫 How to reach me *sunilroy450@gmail.com*
 
-- ⚡ Fun fact *Love to explore new things and play cricket*
+- ⚡ Fun fact *Love to explore new things and love to cook*
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_3U1i_YcCLduNRH_ye8naikyIbhVe6Jw/view?usp=sharing" >Resume</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vZ7bwklrA35UsF7Z5gjqqtY0TvbUHSMK/view?usp=share_link" >Certificate</a>
-
 - 📄 Know about my Work <a  href="https://sunilkumarroy450.github.io/" >Portfolio</a>
-
 - 📄 Know about my Work <a  href="https://www.linkedin.com/in/sunil-roy-310447178/" >Linkedin</a>
 
 -----------------------------------------------------------
