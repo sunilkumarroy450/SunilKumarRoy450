@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=teal&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sunil+%F0%9F%91%8B;MERN+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
 <p align="centre" font-family="sans-serif">A MERN Stack developer with a passion for writing clean and efficient code. I am proficient in integrating APIs into React and Next.js applications using Axios and Fetch and utilizing various tools, languages and libraries such as Redux, ReduxToolkit, React Router, Strapi, Node.js, Express.Js, MongoDB, Tailwind CSS and Chakra UI. As someone passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects.</p>
-<p border-radius=".5rem" align="center" ><img  width="80%" height="50%" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" /></p>
+<!-- <p border-radius=".5rem" align="center" ><img  width="80%" height="50%" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" /></p> -->
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
 
