@@ -154,8 +154,10 @@
 
 |Certificate & Achievement|
 | --- | --- |
+![cut_short_image](https://github.com/user-attachments/assets/2b27c5b6-36ae-4164-baf5-56c20312d136)
 ![Sunil_cerficate](https://user-images.githubusercontent.com/101394814/230847473-6110fad5-d85b-4339-820c-1da436a0dbf4.png)
-![Sunil_cerficate](https://drive.google.com/file/d/1PNZk1NF5i72NImX0Cn9U8LifQoBbo34_/view?usp=drive_link)
+
+
 
 
 | Top Languages |   What i do |
