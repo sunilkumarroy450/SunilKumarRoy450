@@ -2,7 +2,26 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=teal&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sunil+%F0%9F%91%8B;MERN+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<p align="centre" font-family="sans-serif">A MERN Stack developer with a passion for writing clean and efficient code. I am proficient in integrating APIs into React and Next.js applications using Axios and Fetch and utilizing various tools, languages and libraries such as Redux, ReduxToolkit, React Router, Strapi, Node.js, Express.Js, MongoDB, Tailwind CSS and Chakra UI. As someone passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects.</p>
+<p align="centre" font-family="sans-serif">I'm a passionate and results-driven Full Stack Web Developer with hands-on experience in building scalable and performant web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), along with Next.js, TypeORM, and Strapi.
+
+With a strong foundation in both frontend and backend technologies, I specialize in creating seamless user experiences and robust APIs. I’m proficient in crafting responsive UI with Tailwind CSS and MUI, managing state effectively with Redux Toolkit, and integrating powerful backend services using Node.js, Express, and MongoDB.
+
+I’m also experienced in working with TypeORM for SQL-based database solutions and have built headless CMS-powered applications using Strapi. My development workflow includes using Git, GitHub, and Postman for efficient version control and testing.
+
+I thrive in agile, fast-paced environments and take pride in writing clean, maintainable code. Whether it's building a full-fledged SaaS product or optimizing a RESTful API, I bring a problem-solving mindset and a user-first approach to every project.
+
+✅ Immediate Joiner – Ready to contribute from Day 1
+💡 Constantly learning and adapting to new tools, frameworks, and best practices
+🤝 Open to remote, hybrid, or onsite opportunities
+
+🔧 Tech Skills:
+Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS, MUI, HTML, CSS, JavaScript (ES6+)
+
+Backend: Node.js, Express.js, MongoDB, TypeORM, Strapi, REST API
+
+Tools & Others: Git, GitHub, Postman, MongoDB Atlas, Mongoose, VS Code
+
+.</p>
 <!-- <p border-radius=".5rem" align="center" ><img  width="80%" height="50%" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" /></p> -->
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarRoy450&label=Profile%20views&color=0e75b6&style=flat" alt="SunilSunilKumarRoy450" /> </p>
